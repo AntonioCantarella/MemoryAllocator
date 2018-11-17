@@ -1,0 +1,85 @@
+# Documentation
+Hephaistos/Documentation
+
+# UE4 Project folders
+Saved/
+Intermediate/
+Binaries/
+Build/
+
+# Visual Studio solutions folders
+.vs/
+[Ii]pch/
+
+# Build results folders
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Rr]esources/
+x86/
+x64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+Hephaistos/Engine/x64/
+Hephaistos/Editor/x64/
+Hephaistos/MathLib/x64/
+Hephaistos/ObjMtlParserLib/x64/
+Hephaistos/MathLibUnitTest/x64/
+Hephaistos/IniParserLib/x64/
+Hephaistos/HE_Editor/x64/
+Hephaistos/Engine/Debug/
+
+Hephaistos/Engine/Resources/Music/
+Hephaistos/Engine/Resources/Sound/
+Hephaistos/Editor/Resources/Music/
+Hephaistos/Editor/Resources/Sound/
+
+
+
+# Visual Studio solutions files
+*.sdf
+*.opensdf
+*.suo
+*.db
+*.opendb
+*.pdb
+*.idb
+*.log
+*.tlog
+*.ilk
+*.exp
+*.pdb
+*.exe
+*.ipdb
+*.iobj
+*.flac
+
+# DLL
+Hephaistos/x64/Debug/Engine.dll
+
+
+# Generic files
+*.swp
+*.TMP
+
+# Generic folders
+[Tt]hirdparty/
+[Dd]ocumentation/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.xml
+*.scn
+*.prefab
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+Hephaistos/Engine/Debug/GameObject.obj
+
+# Current project specific files
+EngineLog
